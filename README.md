@@ -1,4 +1,4 @@
-# Flutter: Shared Preference 
+# Flutter: Shared Preferences
 
 A new Flutter project.
 
